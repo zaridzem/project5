@@ -1,0 +1,148 @@
+.header-wraper {
+  background-color: #f6f8f9;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 50;
+}
+body {
+  background-color: #f6f8f9;
+}
+.navigation {
+  display: inline-block;
+}
+.nav-item {
+  display: inline-block;
+}
+.logo {
+  font-family: "Quicksand", sans-serif;
+  font-weight: bolder;
+  font-size: 13px;
+  color: #fa6980;
+  display: inline-block;
+  margin-top: 18px;
+  margin-left: 20px;
+}
+
+.nav1active {
+  font-family: "Quicksand", sans-serif;
+  color: black;
+  font-weight: 600;
+  font-size: 11px;
+  margin-left: 92px;
+}
+.nav2 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  color: #7d8185;
+  font-size: 11px;
+  margin-left: 27px;
+}
+.nav3 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  color: #7d8185;
+  font-size: 11px;
+  margin-left: 22px;
+}
+.nav4 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  color: #7d8185;
+  font-size: 11px;
+  margin-left: 22px;
+}
+.main-logo {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 40px;
+  margin-bottom: 9px;
+}
+
+.section {
+  width: 1160px;
+  margin: 0 auto;
+  color: f6f8f9;
+}
+.section-after-header {
+  margin-top: 45px;
+}
+.header1 {
+  font-family: "Overpass", sans-serif;
+  font-weight: 900;
+  font-size: 24px;
+  color: #202124;
+  margin-top: 75px;
+  margin-left: 140px;
+}
+.image1 {
+  width: 360px;
+  height: 180px;
+  vertical-align: top;
+}
+.section1 {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  background: #ffffff;
+  margin-top: 29px;
+  margin-left: 140px;
+}
+.box1 {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 140px;
+  background-color: #ffffff;
+}
+.text1 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  color: #a6adb4;
+  margin: 66px 40px 0 40px;
+}
+.clock-logo {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 40px;
+  vertical-align: top;
+}
+.text2 {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+  display: inline-block;
+  font-size: 13px;
+  color: #a6adb4;
+  margin: 11px 0px 40px 10px;
+}
+.box2 {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 40px;
+  background-color: #ffffff;
+}
+.box3 {
+  width: 360px;
+  height: 350px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 40px;
+  background-color: #ffffff;
+}
+.image2 {
+  width: 360px;
+  height: 180px;
+  vertical-align: top;
+}
+
+.image3 {
+  width: 360px;
+  height: 180px;
+  vertical-align: top;
+}
