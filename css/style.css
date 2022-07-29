@@ -60,7 +60,7 @@ body {
   margin-bottom: 9px;
 }
 
-.section {
+.section1 {
   width: 1160px;
   margin: 0 auto;
   color: f6f8f9;
@@ -152,11 +152,6 @@ body {
   font-size: 16px;
   font-family: "Quicksand", sans-serif;
 }
-.section2 {
-  width: 1160px;
-  margin: 0 auto;
-  color: #f6f8f9;
-}
 
 .header2 {
   font-family: "Overpass", sans-serif;
@@ -164,16 +159,13 @@ body {
   font-size: 24px;
   color: #202124;
   margin-top: 58px;
-  margin-right: 140px;
+  margin-left: 140px;
 }
 .box4 {
   width: 760px;
   height: 900px;
   display: inline-block;
-  vertical-align: top;
   margin-top: 40px;
-  margin-right: 40px;
-  margin-bottom: 37px;
   margin-left: 140px;
 }
 .box5 {
@@ -181,28 +173,29 @@ body {
   height: 892px;
   display: inline-block;
   vertical-align: top;
-  margin-right: 140px;
+  margin-top: 40px;
+  margin-left: 40px;
 }
-.image4 {
+.container1 {
   width: 760px;
   height: 430px;
-  vertical-align: top;
-  margin-left: 140px;
+  position: relative;
+  margin-bottom: 40px;
 }
 .image5 {
   width: 760px;
   height: 430px;
-  vertical-align: bottom;
   margin-top: 40px;
   margin-left: 140px;
 }
-.centered-text {
+.centered {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 194px;
+  right: 172px;
   transform: translate(-50%, -50%);
   font-family: "Quicksand", sans-serif;
   font-size: 16px;
+  color: white;
 }
 .image6 {
   width: 360px;
